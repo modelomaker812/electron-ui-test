@@ -1,6 +1,4 @@
----
-
-## Dev
+## Developers
 
 Built with [Electron](https://electronjs.org).
 
