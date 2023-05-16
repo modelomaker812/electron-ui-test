@@ -19,9 +19,8 @@ npm run release
 
 After Travis finishes building your app, open the release draft it created and click "Publish".
 
-:::info
-Delete everything from here up once packaged! ^ Will also need to setup/configure [TravisCI](https://www.travis-ci.com/);
-:::
+^ Delete everything from here up once packaged! ^ Will also need to setup/configure [TravisCI](https://www.travis-ci.com/) ^
+
 
 ---
 
