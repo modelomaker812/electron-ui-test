@@ -43,6 +43,10 @@ Delete everything from here up once packaged! ^ Will also need to setup/configur
 
 *The AppImage needs to be [made executable](http://discourse.appimage.org/t/how-to-make-an-appimage-executable/80) after download.*
 
+```bash
+chmod +x filename.AppImage
+```
+
 **Windows**
 
 [**Download**](https://github.com/user/repo/releases/latest) the `.exe` file.
