@@ -1,15 +1,17 @@
-## Developers
+## For My Developers 🖤 🍻
 
-Built with [Electron](https://electronjs.org).
+Built with [Electron](https://electronjs.org) to make things **easier on us** && still *just worx!* in 2023.
 
-### Run
+### Getting Started
+
+Run
 
 ```sh
 npm install
 npm start
 ```
 
-### Publish
+### Publishing package
 
 ```sh
 npm run release
@@ -18,7 +20,7 @@ npm run release
 After Travis finishes building your app, open the release draft it created and click "Publish".
 
 :::info
-Delete everything from here up once packaged! ^
+Delete everything from here up once packaged! ^ Will also need to setup/configure TravisCI/Etc;
 :::
 
 ---
