@@ -48,7 +48,7 @@ const createMainWindow = async () => {
 		mainWindow = undefined;
 	});
 
-	await window_.loadFile(path.join(__dirname, 'index.html'));
+	await window_.loadFile(path.join(__dirname, 'ui-index.html'));
 
 	return window_;
 };
