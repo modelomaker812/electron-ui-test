@@ -7,8 +7,8 @@ Built with [Electron](https://electronjs.org) to make things **easier on us** &&
 Run
 
 ```sh
-npm install
-npm start
+git clone https://github.com/modelomaker812/electron-ui-test.git
+npm install && npm start
 ```
 
 ### Publishing package
@@ -26,7 +26,7 @@ After Travis finishes building your app, open the release draft it created and c
 
 # App Name
 
-> The best app ever
+> The best app ever, here's a preview:
 
 ![](https://hackmd.io/_uploads/SklhcOVH3.png)
 
