@@ -28,6 +28,9 @@ After Travis finishes building your app, open the release draft it created and c
 
 > The best app ever
 
+![](https://hackmd.io/_uploads/SklhcOVH3.png)
+
+
 ## Install
 
 *macOS 10.13+, Linux, and Windows 7+ are supported (64-bit only).*
