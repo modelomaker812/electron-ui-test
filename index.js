@@ -48,7 +48,7 @@ const createMainWindow = async () => {
 		mainWindow = undefined;
 	});
 
-	await window_.loadFile(path.join(__dirname, 'ui-index.html'));
+	await window_.loadFile(path.join(__dirname, 'chat-ui.html'));
 
 	return window_;
 };
