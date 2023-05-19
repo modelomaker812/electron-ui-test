@@ -24,7 +24,7 @@ After Travis finishes building your app, open the release draft it created and c
 
 ---
 
-# App Name
+# Pigeon *Premium* App 
 
 > The best app ever, here's a preview:
 
@@ -33,7 +33,7 @@ After Travis finishes building your app, open the release draft it created and c
 
 ## Install
 
-*macOS 10.13+, Linux, and Windows 7+ are supported (64-bit only).*
+> *macOS 10.13+, Linux, and Windows 7+ are supported (64-bit only).*
 
 **macOS**
 
